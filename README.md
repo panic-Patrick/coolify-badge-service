@@ -1,3 +1,15 @@
+# Example
+## flat
+![Deployment Status](https://badge.kaempf.dev/api/badge/j4c8owgkw4k8888ckkgc84s4?label=Website&style=flat)
+## flat square
+![Deployment Status](https://badge.kaempf.dev/api/badge/j4c8owgkw4k8888ckkgc84s4?label=Website&style=flat-square)
+## plastic
+![Deployment Status](https://badge.kaempf.dev/api/badge/j4c8owgkw4k8888ckkgc84s4?label=Website&style=plastic)
+## for-the-badge
+![Deployment Status](https://badge.kaempf.dev/api/badge/j4c8owgkw4k8888ckkgc84s4?label=Website&style=for-the-badge)
+## social
+![Deployment Status](https://badge.kaempf.dev/api/badge/j4c8owgkw4k8888ckkgc84s4?label=Website&style=social)
+
 
 # Coolify Deployment Badge Service (Next.js)
 
