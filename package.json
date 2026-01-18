@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "engines": {
-    "node": "25"
+    "node": ">=24.5.0 <25"
   },
   "scripts": {
-    "dev": "next dev -H 0.0.0.0 -p 3000",
+    "dev": "next dev",
     "build": "next build",
-    "start": "next start -H 0.0.0.0 -p 3000",
-    "lint": "next lint"
+    "start": "next start",
+    "lint": "eslint ."
   },
   "dependencies": {
     "badge-maker": "^5.0.2",
